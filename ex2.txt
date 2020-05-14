@@ -4,6 +4,7 @@ int ex2() {
 	 * test
 	 * test
 	 * test
+	 *
 	 */
 
 	return 0;
