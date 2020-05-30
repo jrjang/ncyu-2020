@@ -1,13 +1,3 @@
-  official/ex0
-  official/ex1
-  official/ex2
-  official/ex3
-  official/ex3-2
-  official/ex4
-  official/ex4-2
-  official/ex4-3
-  official/ex5
-  official/ex5-2
   official/ex6
   origin/HEAD -> origin/ex0
   origin/ex0
