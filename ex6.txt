@@ -1,0 +1,12 @@
+.circleci/config.yml
+.gitignore
+README.md
+data/ex0-mapping.txt
+ex0.txt
+ex5-1.txt
+ex5-fake1.txt
+ex5-fake2.txt
+ex5.txt
+scripts/ex0-test.sh
+scripts/ex0-verify.sh
+scripts/verify.sh
