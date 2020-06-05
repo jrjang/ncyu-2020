@@ -8,9 +8,16 @@ Example 0:
 
 電子郵件: s1043000@mail.ncyu.edu.tw
 
-2. 在Git Bash中執行以下指令
+2. 設定預設文字編輯器，以vim為例子。
 
 ```
+git config --global core.editor vim
+```
+
+3. 在Git Bash中執行以下指令
+
+```
+cd $HOME
 bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex0/scripts/ex0-test.sh) GITHUB_ACCOUNT GITHUB_PROJECT CHINESE_NAME
 ```
 
