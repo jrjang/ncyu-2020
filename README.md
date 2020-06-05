@@ -1,7 +1,10 @@
 Example 1:
 
 1. 建立新的資料夾並切換至新資料夾
-
+```
+mkdir -p $HOME/FOLDER_NAME
+cd $HOME/FOLDER_NAME
+```
 2. 執行以下指令
 
 ```
