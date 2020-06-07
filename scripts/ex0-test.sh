@@ -68,7 +68,7 @@ fi
 
 git clone https://github.com/jrjang/ncyu-2020 -b $PROJECT_BRANCH $GITHUB_PROJECT
 pushd $GITHUB_PROJECT
-hub fork
+$HOME/AppData/Local/GitHubCLI/bin/hub fork
 echo "[STATUS] Example 0: Github fork done"
 popd
 
@@ -90,7 +90,7 @@ echo "[STATUS] Example 0: Git commit done"
 git push -f -q origin HEAD:refs/heads/$PROJECT_BRANCH
 echo "[STATUS] Example 0: Git push done"
 
-hub pull-request -b jrjang/ncyu-2020:$PROJECT_BRANCH -h $GITHUB_REPO:$PROJECT_BRANCH -m "$COMMIT_MSG"
+$HOME/AppData/Local/GitHubCLI/bin/hub pull-request -b jrjang/ncyu-2020:$PROJECT_BRANCH -h $GITHUB_REPO:$PROJECT_BRANCH -m "$COMMIT_MSG"
 echo "[STATUS] Example 0: Github pull requests done"
 
 echo "[STATUS] Example 0: done"
