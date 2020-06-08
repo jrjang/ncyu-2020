@@ -9,6 +9,9 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex4/scripts/ex
 
 2. 切到GITHUB_PROJECT資料夾下. 依照投影片描述做修改
 
+交換遇到衝突時，需使用 git add ex4.txt
+再執行 git rebase --continue
+
 3. 完成並commit後, 在GITHUB_PROJECT資料夾下, 執行以下指令
 
 ```
