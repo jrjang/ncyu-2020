@@ -2,18 +2,17 @@ int ex2() {
 	/*
 	 * test
 	 * test
-	 * tst
+	 * test
 	 * test
 	 */
 
 	return 0;
 }
-
 int ex2(int i) {
 	/*
 	 * test
 	 * test
-	 * txt
+	 * test
 	 * test
 	 */
 
