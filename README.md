@@ -4,9 +4,13 @@ Example 0:
 
 例如:
 
+git config --global user.name 1043000
 使用者名稱: 1043000
 
+git config --global user.email s1043000@mail.ncyu.edu.tw
 電子郵件: s1043000@mail.ncyu.edu.tw
+
+然後透過git config --global --list查看設定
 
 2. 在Git Bash中執行以下指令
 
