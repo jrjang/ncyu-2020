@@ -2,7 +2,7 @@ Example 1:
 
 1. 建立新的資料夾並切換至新資料夾
 
-2. 執行以下指令
+2. 建立一個內容為Example 1 的文字檔名為ex1.txt
 
 ```
 git init
@@ -10,8 +10,11 @@ echo "Example 1" > ex1.txt
 ```
 
 3. 將ex1.txt加入git local repository並commit
-
-4. 在新資料夾下執行以下指令
+```
+git add ex1.txt
+```
+4. 在新資料夾下執行以下指令(這是設計好的腳本)
+也選擇可以自己pull上去
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex1/scripts/ex1-test.sh) GITHUB_ACCOUNT GITHUB_PROJECT
