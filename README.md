@@ -12,7 +12,7 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex2/scripts/ex
 ```
 cd GITHUB_PROJECT #根據上個指令的GUTHUB一樣
 vi ex2.txt #根據data/0001-ex2.patch修改
-
+```
 
 3. 完成並commit後, 在GITHUB_PROJECT資料夾下, 執行以下指令
 
