@@ -14,6 +14,11 @@ echo "Example 1" > ex1.txt
 
 3. 將ex1.txt加入git local repository並commit
 
+```
+git add ex1.txt
+git commit -s -m "Ex1-echo"
+```
+
 4. 在新資料夾下執行以下指令
 
 ```
