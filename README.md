@@ -9,6 +9,8 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex3/scripts/ex
 
 2. 切到GITHUB_PROJECT資料夾下. 依照投影片描述做修改
 
+	補充：edit ex3.txt to "let the program print Hello World"
+		  為撰寫一簡單程式，不限語言，使程式輸出"Hello World"。
 3. 完成並commit後, 在GITHUB_PROJECT資料夾下, 執行以下指令
 
 ```
