@@ -9,7 +9,9 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex2/scripts/ex
 
 2. 切到GITHUB_PROJECT資料夾下. 依據data/0001-ex2.patch做相對應的修改
 
-3. 完成並commit後, 在GITHUB_PROJECT資料夾下, 執行以下指令
+3.使用git blame 對ex2.txt進行查詢哪行程式碼是哪次commit做更改的
+
+4. 完成並commit後, 在GITHUB_PROJECT資料夾下, 執行以下指令
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex2/scripts/ex2-test.sh) GITHUB_ACCOUNT GITHUB_PROJECT
