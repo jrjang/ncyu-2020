@@ -8,7 +8,7 @@ Example 0:
 
 電子郵件: s1043000@mail.ncyu.edu.tw
 
-然後透過以下查看設定
+然後透過以下指令來查看是否設置成功
 
 <code>git config --global --list</code>
 
