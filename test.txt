@@ -1,0 +1,3 @@
+Avoid operation on practice example 5
+
+sometimes people will forget to cd ncyu-2020 before git clean, it will clean your environment setup
